@@ -8,4 +8,4 @@ let questions = [
       "Albert Einstein",
       "Marie Curiee",
       "Stephen Hawking",
-      "Linus Pauling",
+      "Linus Pauling"
