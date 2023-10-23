@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Qual foi o clube que ganhou o munial em 2012 ?",
-    answer: "Corinthians",
+    question: "Qual foi o útimo país a abolir a escravidão ?",
+    answer: "Brasil",
     options: [
-      "Corinthians",
-      "Palmeiras",
-      "Chealse",
-      "Santos"
+      "Inglaterra",
+      "Brasil",
+      "Alemanha",
+      "Estados Unidos"
     ]
   },
   {
     numb: 2,
-    question: "Qual a seleção que ganhou mais copas ?",
-    answer: "Brasil",
+    question: "Quantas estrelas tem na bandeira do Brasil ?",
+    answer: "27",
     options: [
-      "Alemanha",
-      "Brasil",
-      "Italia",
-      "Chile"
+      "26",
+      "28",
+      "27",
+      "25"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do rei do futebol Pelé?",
-    answer: "Edson Arantes do Nascimento",
+    question: "Qual país ganhou a primeira copa ?",
+    answer: "Uruguai",
     options: [
-      "Francisco Silva",
-      "Edson Arantes do Nascimento",
-      "Milton Nascimento",
-      "Galvão Bueno"
+      "Argentina",
+      "Brasil",
+      "China",
+      "Uruguai"
     ]
   },
   {
     numb: 4,
-    question: "Quantos Paulistas tem o Corinthians?",
-    answer: "30",
+    question: "Quando foi o ano da primeira Copa do Mundo de futebol ?",
+    answer: "1930",
     options: [
-      "12",
-      "21",
-      "30",
-      "33"
+      "1930",
+      "1921",
+      "1935",
+      "1920"
     ]
   },
   {
     numb: 5,
-    question: "Qual o maior ídolo da história do Corinthians?",
-    answer: "Cassio Ramos",
+    question: "Qual o menor país do mundo ?",
+    answer: "Vaticano",
     options: [
-      "Neto",
-      "Danilo",
-      "Cassio Ramos",
-      "Roger Guedes"
+      "Coreia do Norte",
+      "Mônaco",
+      "Chile",
+      "Canadá"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
