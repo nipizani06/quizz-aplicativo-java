@@ -51,7 +51,7 @@ let questions = [
     options: [
       "Coreia do Norte",
       "Mônaco",
-      "Chile",
+      "Nova Zelândia",
       "Vaticano"
     ]
   },
