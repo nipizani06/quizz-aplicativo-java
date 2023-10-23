@@ -30,7 +30,7 @@ let questions = [
       "Argentina",
       "Brasil",
       "China",
-      "Uruguai"
+      "Vaticano"
     ]
   },
   {
