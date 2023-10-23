@@ -2,7 +2,7 @@
 let questions = [
   {
     numb: 1,
-    question: "qual foi o clube que ganhou o munial em 2012 ?",
+    question: "Qual foi o clube que ganhou o munial em 2012 ?",
     answer: "Corinthians",
     options: [
       "Corinthians",
