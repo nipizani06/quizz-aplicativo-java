@@ -30,7 +30,7 @@ let questions = [
       "Argentina",
       "Brasil",
       "China",
-      "Vaticano"
+      "Uruguai"
     ]
   },
   {
@@ -52,7 +52,7 @@ let questions = [
       "Coreia do Norte",
       "Mônaco",
       "Chile",
-      "Canadá"
+      "Vaticano"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
