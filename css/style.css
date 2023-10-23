@@ -1,5 +1,5 @@
-/*importing google fonts */
-@import url('https://googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;&display=swap');
+/* importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;&display=swap');
 *{
   margin: 0;
   padding: 0;
@@ -12,7 +12,7 @@ body {
 }
 
 ::selection{
-  color: #fff;
+  color: #FFDAB9;
   background: #007bff;
 }
 
@@ -127,7 +127,7 @@ body {
   z-index: 2;
   height: 70px;
   padding: 0 30px;
-  background: #fff;
+  background: #EEE;
   border-radius: 5px 5px 0 0;
   display: flex;
   align-items: center;
@@ -135,7 +135,7 @@ body {
   box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
 }
 
-.quiz-border header{ . title{
+.quiz-border header .title{
   font-size: 20px;
   font-weight: 600;
 }
@@ -153,13 +153,13 @@ body {
   width: 145px;
 }
 
-.quiz-border header .timer .time_left_txt{
+.quiz-box header .timer .time_left_txt{
   font-weight: 400;
   font-size: 17px;
   user-select: none;
 }
 
-.quiz-border header .timer .timer_sec{
+.quiz-box header .timer .timer_sec{
   font-size: 18px;
   font-weight: 500;
   height: 30px;
@@ -210,11 +210,11 @@ section .option_list .option{
   justify-content: space-between;
 }
 
-secion .option_list .option:last-child{
+section .option_list .option:last-child{
   margim-bottom: 0px;
 }
 
-.section .option_List .option:hover{
+.section .option_list .option:hover{
   color: #004085;
   background: #cce5ff;
   border: 1px solid #b8daff;
