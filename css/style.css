@@ -12,8 +12,8 @@ body{
 }
 
 ::selection{
-    color: #FFFFFF;
-    background: #000000;
+    color: #000000;
+    background: #FFFFFF;
 }
 
 .start_btn,
@@ -24,8 +24,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(255,0,0), 
-                0 6px 20px 0 rgba(127,255,0);
+    box-shadow: 0 4px 8px 0 rgba(255,255,255), 
+                0 6px 20px 0 rgba(255,255,255);
 }
 
 .info_box.activeInfo,
@@ -40,12 +40,12 @@ body{
 .start_btn button{
     font-size: 25px;
     font-weight: 500;
-    color: #FFFFFF;
+    color: #000000;
     padding: 15px 30px;
     outline: none;
     border: none;
     border-radius: 5px;
-    background: #000000;
+    background: #FFFFFF;
     cursor: pointer;
     transition: 1s ease-in-out;
 }
@@ -56,7 +56,7 @@ body{
 
 .info_box{
     width: 540px;
-    background: #FAEBD7;
+    background: #000000;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -87,7 +87,7 @@ body{
 
 .info_box .info-list .info span{
     font-weight: 600;
-    color: #FFE4E1;
+    color: #000000;
 }
 .info_box .buttons{
     height: 60px;
@@ -114,7 +114,7 @@ body{
 
 .quiz_box{
     width: 550px;
-    background: #FFF0F5;
+    background: #FFFFFF;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
